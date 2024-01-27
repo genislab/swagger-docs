@@ -1,0 +1,25 @@
+{
+  "name": "gen-swagger",
+  "version": "1.0.0",
+  "description": "Genis Swagger API documentation utility ",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/genislab/swagger-docs.git"
+  },
+  "keywords": [
+    "swagger",
+    "api",
+    "genislab",
+    "nodejs"
+  ],
+  "author": "Genislab Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genislab/swagger-docs/issues"
+  },
+  "homepage": "https://github.com/genislab/swagger-docs#readme"
+}
